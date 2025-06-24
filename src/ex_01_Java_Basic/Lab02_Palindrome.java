@@ -2,7 +2,7 @@ package ex_01_Java_Basic;
 
 import java.util.Scanner;
 
-public class Lab002_Palindrome {
+public class Lab02_Palindrome {
     public static void main(String[] args)
         {//  Palindrome
             //  madam ->  reverse(madam) -> madam ==
