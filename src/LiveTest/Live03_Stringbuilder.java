@@ -8,7 +8,7 @@ public class Live03_Stringbuilder {
         long start1 = System.currentTimeMillis();
         String str = "";
         for (int i = 0; i < iterations; i++) {
-            str = str+i;
+            str = str + i;
         }
         long end1 = System.currentTimeMillis();
         System.out.println("Time with String (+): " + (end1 - start1) + " ms");
